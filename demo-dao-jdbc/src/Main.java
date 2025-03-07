@@ -1,5 +1,8 @@
+import Entities.Departament;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        Departament departament = new Departament(1, "Books");
+        System.out.println(departament);
     }
 }
