@@ -1,5 +1,5 @@
-import Entities.Departament;
-import Entities.Seller;
+import Model.Entities.Departament;
+import Model.Entities.Seller;
 
 import java.util.Date;
 
